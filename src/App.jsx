@@ -2,7 +2,7 @@
 import { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import Home from "./pages/home/Home";
+import Home from "./pages/Home/Home";
 import NotesPage from "./pages/notesPage/NotesPage";
 import ProfilePage from "./pages/profilePage/profilePage";
 import NotFound from "./pages/notFound/NotFound";
