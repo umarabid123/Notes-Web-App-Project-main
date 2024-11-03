@@ -5,7 +5,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 import NotesPage from "./pages/notesPage/NotesPage";
 import ProfilePage from "./pages/profilePage/profilePage";
-import NotFound from "./pages/notFound/NotFound";
+import NotFound from "./pages/notFound/notFound";
 import Login from "./components/auth/Login";
 import Register from "./components/auth/Register";
 import Navbar from "./../src/components/shared/NavBar";
